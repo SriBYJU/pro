@@ -1,0 +1,39 @@
+body
+{
+    background-color: rgb(4, 238, 180);
+}
+
+#btn
+{
+    background-color: rgb(233, 128, 7);
+}
+
+.name_of_objects
+{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(3, 106, 223);
+  font-size:23px;
+}
+
+p
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(219, 104, 9);
+    font-size: 32px;
+}
+
+label
+{
+    margin-top: 15px ;
+    font-size:21px ;
+    border:1px solid grey;
+}
+
+#camera
+{
+    width:600px;
+    height: 700px;
+
+
+
+}
